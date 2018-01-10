@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCards", "DataCards\DataCards.csproj", "{71664D5E-449E-4C97-BFA6-C8AB3BF389CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71664D5E-449E-4C97-BFA6-C8AB3BF389CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71664D5E-449E-4C97-BFA6-C8AB3BF389CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71664D5E-449E-4C97-BFA6-C8AB3BF389CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71664D5E-449E-4C97-BFA6-C8AB3BF389CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFBE8EF3-496F-4921-A0B1-47C6FF9C817E}
+	EndGlobalSection
+EndGlobal
