@@ -1,0 +1,32 @@
+<div class="data-cards-container">
+  <div *ngFor="let person of data" class="data-card">
+    <div class="data-card-title">
+      <div [ngStyle]="{'background-image': 'url(' + person.picture + ')'}" class="personal-picture"></div>
+      <div class="name-age">
+        <span class="name">{{person.name}}</span>
+        <span class="age">{{person.age}}</span>
+      </div>
+    </div>
+    <div class="data-card-content">
+      <ul>
+        <li>
+          <div>
+            Lives in {{person.city + ", " + person.state}}
+          </div>
+        </li>
+        <li>
+          <div>
+            Currently works at {{person.company}}
+          </div>
+        </li>
+      </ul>
+      <div class="connect-button-container">
+        <a href="#">
+          <div class="connect-button">
+            Connect with {{person.name}}
+          </div>
+        </a>
+      </div>
+    </div>
+  </div> 
+</div>

@@ -1,0 +1,42 @@
+.data-card 
+  display: inline-block
+  width: 320px
+  height: 240px
+  position: relative
+  margin: 15px
+  background: white
+  -webkit-box-shadow: 0px 13px 45px -15px rgba(0,0,0,0.75)
+  -moz-box-shadow: 0px 13px 45px -15px rgba(0,0,0,0.75)
+  box-shadow: 0px 13px 45px -15px rgba(0,0,0,0.75)
+  
+  @import "data-card-title"
+  @import "data-card-content"
+      
+@keyframes float-in 
+  0%
+    transform: translateY(100px)
+    opacity: 0
+  100%
+    transform: translateY(0px)
+    opacity: 1
+
+@keyframes bounce 
+  0%
+    transform: translateY(0px)
+  20%
+    transform: translateY(0x)
+  45%
+    transform: translateY(-8px)
+  65% 
+    transform: translateY(0px)
+  85% 
+    transform: translateY(-5px)
+  100%
+    transform: translateY(0px)
+
+@for $i from 1 through 15 
+  .data-card:nth-child(#{$i})
+    animation: 
+      name: float-in 
+      duration: .33s * $i 
+      fill-mode: forwards

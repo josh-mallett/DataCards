@@ -1,0 +1,22 @@
+C:\Users\josh-\source\repos\DataCards\DataCards\bin\Debug\netcoreapp2.0\DataCards.deps.json
+C:\Users\josh-\source\repos\DataCards\DataCards\bin\Debug\netcoreapp2.0\DataCards.runtimeconfig.json
+C:\Users\josh-\source\repos\DataCards\DataCards\bin\Debug\netcoreapp2.0\DataCards.runtimeconfig.dev.json
+C:\Users\josh-\source\repos\DataCards\DataCards\bin\Debug\netcoreapp2.0\DataCards.dll
+C:\Users\josh-\source\repos\DataCards\DataCards\obj\Debug\netcoreapp2.0\DataCards.csprojResolveAssemblyReference.cache
+C:\Users\josh-\source\repos\DataCards\DataCards\obj\Debug\netcoreapp2.0\DataCards.csproj.CoreCompileInputs.cache
+C:\Users\josh-\source\repos\DataCards\DataCards\obj\Debug\netcoreapp2.0\DataCards.AssemblyInfoInputs.cache
+C:\Users\josh-\source\repos\DataCards\DataCards\obj\Debug\netcoreapp2.0\DataCards.AssemblyInfo.cs
+C:\Users\josh-\source\repos\DataCards\DataCards\bin\Debug\netcoreapp2.0\DataCards.pdb
+C:\Users\josh-\source\repos\DataCards\DataCards\obj\Debug\netcoreapp2.0\DataCards.dll
+C:\Users\josh-\source\repos\DataCards\DataCards\obj\Debug\netcoreapp2.0\DataCards.pdb
+C:\Users\josh-\Development\Visual Studio 2017\Projects\DataCards\DataCards\bin\Debug\netcoreapp2.0\DataCards.deps.json
+C:\Users\josh-\Development\Visual Studio 2017\Projects\DataCards\DataCards\bin\Debug\netcoreapp2.0\DataCards.runtimeconfig.json
+C:\Users\josh-\Development\Visual Studio 2017\Projects\DataCards\DataCards\bin\Debug\netcoreapp2.0\DataCards.runtimeconfig.dev.json
+C:\Users\josh-\Development\Visual Studio 2017\Projects\DataCards\DataCards\bin\Debug\netcoreapp2.0\DataCards.dll
+C:\Users\josh-\Development\Visual Studio 2017\Projects\DataCards\DataCards\bin\Debug\netcoreapp2.0\DataCards.pdb
+C:\Users\josh-\Development\Visual Studio 2017\Projects\DataCards\DataCards\obj\Debug\netcoreapp2.0\DataCards.csprojResolveAssemblyReference.cache
+C:\Users\josh-\Development\Visual Studio 2017\Projects\DataCards\DataCards\obj\Debug\netcoreapp2.0\DataCards.csproj.CoreCompileInputs.cache
+C:\Users\josh-\Development\Visual Studio 2017\Projects\DataCards\DataCards\obj\Debug\netcoreapp2.0\DataCards.AssemblyInfoInputs.cache
+C:\Users\josh-\Development\Visual Studio 2017\Projects\DataCards\DataCards\obj\Debug\netcoreapp2.0\DataCards.AssemblyInfo.cs
+C:\Users\josh-\Development\Visual Studio 2017\Projects\DataCards\DataCards\obj\Debug\netcoreapp2.0\DataCards.dll
+C:\Users\josh-\Development\Visual Studio 2017\Projects\DataCards\DataCards\obj\Debug\netcoreapp2.0\DataCards.pdb
